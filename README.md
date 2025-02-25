@@ -1,18 +1,27 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18393180&assignment_repo_type=AssignmentRepo)
 # SE_Day1
 Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
+ Software Engineering is the process of designing, developing and maintaining a software.
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
+Requirements - gathering and documenting users needs.
+Design - High level and detailed designs of software architect.
+Implementation - Writing codes and building software according to specifications.
+Testing - Conducting tests to ensure quality standards are met.
+Deployment - Releasing the software to users or customers.
+Maintenance - Continuous support, updates and enhancement to the software after deployment.
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
